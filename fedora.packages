@@ -4,7 +4,6 @@ automake
 binutils
 bison
 dconf-editor
-discord
 flex
 fontforge
 gcc
@@ -12,7 +11,6 @@ gcc-c++
 git
 glibc-headers
 glibc-devel
-gnome-tweak-tool
 gparted
 htop
 joe
@@ -27,7 +25,6 @@ mpv
 multitail
 nano
 net-tools
-openssh-server
 patch
 qt
 remmina
@@ -36,7 +33,6 @@ shutter
 simplescreenrecorder
 steam
 tree
-chrome-gnome-shell
 ctags
 cmake
 clang
